@@ -1,0 +1,1 @@
+cheat GFI StoneFloor 100 100 0 | cheat GFI StoneGate 10 100 0 | cheat GFI StoneCeiling 100 100 0 | cheat GFI StonePillar 100 100 0

@@ -1,0 +1,13 @@
+Ark Obelisks (Ragnarok)
+
+Red Obelisk
+
+cheat setplayerpos 467000 -195000 -14100
+
+Green Obelisk
+
+cheat setplayerpos -155000 91000 11700
+
+Blue Obelisk
+
+cheat setplayerpos -428000 -418000 -13600

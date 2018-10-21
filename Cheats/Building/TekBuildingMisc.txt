@@ -1,0 +1,1 @@
+GFI Tekpillar 1 1 0 | GFI tekladder 1 1 0 | GFI tekceilingwithtrapdoor 1 1 0 | GFI tektrapdoor 1 1 0 | GFI tekstairs 1 1 0 | GFI tekfence 1 1 0 | GFI Tekrailing 1 1 0

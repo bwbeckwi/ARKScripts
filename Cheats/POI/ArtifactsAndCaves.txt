@@ -1,0 +1,87 @@
+Artifact of the Clever (Thanks B4TM4N12439)
+
+cheat setplayerpos 374849 -26099 -6912
+
+Artifact of the Clever Cave Entrance
+
+cheat setplayerpos
+
+Artifact of the Skylord (Thanks B4TM4N12439)
+
+cheat setplayerpos 378671 -30084 -6616
+
+Artifact of the Skylord Cave Entrance
+
+cheat setplayerpos
+
+Artifact of the Hunter (Thanks fNyx)
+
+cheat setplayerpos -298934 -373125 -10664
+
+Artifact of the Hunter Cave Entrance (Thanks Dadewis)
+
+cheat setplayerpos -290000 -410000 -3400
+
+Artifact of the Massive (Thanks B4TM4N12439)
+
+cheat setplayerpos 386124 -13443 -7104
+
+Artifact of the Massive Cave Entrance
+
+cheat setplayerpos
+
+Artifact of the Devourer (Underwater, lots of squids) (Thanks Dadewis)
+
+cheat setplayerpos -624500 -34000 -59500
+
+Artifact of the Devourer Cave Entrance
+
+cheat setplayerpos
+
+Artifact of the Devious (Thanks B4TM4N12439)
+
+cheat setplayerpos 386266 -12259 -7104
+
+Artifact of the Devious Cave Entrance
+
+cheat setplayerpos
+
+Artifact of the Pack (Thanks Dadewis)
+
+cheat setplayerpos -86500 -215000 -14200
+
+Artifact of the Pack Cave Entrance (Thanks Dadewis)
+
+cheat setplayerpos -160000 -250000 31500
+
+Artifact of the Strong (Thanks Dadewis)
+
+cheat setplayerpos -331500 -330300 1260
+
+Artifact of the Strong Cave Entrance
+
+cheat setplayerpos
+
+Artifact of the Immune (Thanks Dadewis)
+
+cheat setplayerpos -71000 -345000 3400
+
+Artifact of the Immune Cave Entrance
+
+cheat setplayerpos
+
+Artifact Of The Brute (Thanks Dadewis)
+
+cheat setplayerpos 370200 -193600 19080
+
+Artifact Of The Brute Cave Entrance
+
+cheat setplayerpos
+
+Artifact Of The Cunning (Thanks Dadewis)
+
+cheat setplayerpos -52600 -390000 10300
+
+Artifact Of The Cunning Cave Entrance
+
+cheat setplayerpos

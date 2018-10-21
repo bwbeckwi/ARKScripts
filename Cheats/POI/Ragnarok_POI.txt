@@ -1,0 +1,67 @@
+Pirate Cave (Ink Dragon)
+
+cheat setplayerpos -335176 -377636 -14015
+
+Thunder Peak's Cove (Ink Dragon)
+
+cheat setplayerpos 127264 422055 -12196
+
+Castle Of The Swamp
+
+cheat setplayerpos -121000 -377000 17000
+
+Abandoned Lighthouse
+
+cheat setplayerpos 466200 -357400 2900
+
+Forbidden Desert (Beyond Barrier)
+
+cheat setplayerpos 200000 200000 -10400
+
+Character Creation Background (Thanks Matrixsystem)
+
+cheat setplayerpos 444466 -333802 -13780
+
+Ruined Bridge
+
+cheat setplayerpos -152000 -130000 31600
+
+Desert Labyrinth (Exit) (Thanks Cronosus)
+
+cheat setplayerpos 388753 25198 -6061
+
+Desert Labyrinth (Entrance) (Thanks Cronosus)
+
+cheat setplayerpos 360706 21724 -2517
+
+Scorched Desert Ruins
+
+cheat setplayerpos 243999 277142 -12697
+
+Special Ruins
+
+cheat setplayerpos -74454 180249 15173
+
+Ruins Northern Swamps
+
+cheat setplayerpos -457683 -120387 -13789
+
+Ruins Northern Islands
+
+cheat setplayerpos -405242 99438 -14310
+
+Dragon Breath Grotto
+
+cheat setplayerpos 200213 -397688 -14008 (Thanks Nazder)
+
+Egil Throughway Cave
+
+cheat setplayerpos -273039 -386570 -6634 (Thanks Nazder)
+
+Viking Bay Cave
+
+cheat setplayerpos -262650 -356569 -11759 (Thanks Nazder)
+
+Ruins of Etain
+
+cheat setplayerpos -276700 -293200 10750 (Thanks Nazder)

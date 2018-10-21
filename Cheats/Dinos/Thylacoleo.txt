@@ -1,0 +1,1 @@
+Cheat GMSummon "Thylacoleo_Character_BP_C" 150 | Cheat GFI Armor_ThylacoSaddle 1 100 0 | Cheat GMBuff

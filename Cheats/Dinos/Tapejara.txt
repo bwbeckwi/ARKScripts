@@ -1,0 +1,1 @@
+Cheat GMSummon "Tapejara_Character_BP_C" 150 | Cheat GFI Armor_TapejaraSaddle 1 100 0 | Cheat GMBuff

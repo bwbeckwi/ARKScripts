@@ -1,0 +1,2 @@
+cheat GFI PowerGenerator 5 100 0 | cheat GFI Gasoline 100 100 0 | cheat GFI IndustrialCookingPot 100 100 0 | cheat GFI IndustrialForge 100 100 0 | cheat GFI Grill 100 100 0 | cheat GFI Grinder 100 100 0 | cheat GFI Fabricator 100 100 0
+

@@ -1,0 +1,1 @@
+AdminCheat GMSummon "Wyvern_Character_BP_Fire_C" 1000 | AdminCheat GMSummon "Wyvern_Character_BP_Lightning_C" 1000 | AdminCheat GMSummon "Wyvern_Character_BP_Poison_C" 1000 | AdminCheat GMSummon "Ragnarok_Wyvern_OverRide_Ice_C" 1000

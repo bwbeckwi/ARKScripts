@@ -1,0 +1,1 @@
+Cheat GiveSlotItem "Blueprint'/Game/Aberration/CoreBlueprints/Weapons/PrimalItem_WeaponClimbPick.PrimalItem_WeaponClimbPick'" 9 1 | Cheat GiveSlotItem "Blueprint'/Game/Aberration/WeaponGlowStickThrow/PrimalItem_GlowStick.PrimalItem_GlowStick'" 8 20

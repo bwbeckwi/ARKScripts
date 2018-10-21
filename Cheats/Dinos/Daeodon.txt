@@ -1,0 +1,1 @@
+Cheat GMSummon "Daeodon_Character_BP_C" 150 | Cheat GFI Armor_DaeodonSaddle 1 100 0 | Cheat GMBuff

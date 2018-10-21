@@ -1,0 +1,1 @@
+cheat GFI Prod 1 100 0 | cheat GFI MetalHatchet 1 100 0 | cheat GFI MetalPick 1 100 0 | cheat GFI Sickle 1 100 0 | cheat GFI Sword 1 100 0 | cheat GFI Pike 1 100 0 | cheat GFI Spear 1 100 0 | cheat GFI StoneHatchet 1 100 0 | cheat GFI StonePick 1 100 0 | cheat GFI TekSword 1 100 0 | cheat GFI StoneClub 1 100 0 | cheat GFI Whip 1 100 0

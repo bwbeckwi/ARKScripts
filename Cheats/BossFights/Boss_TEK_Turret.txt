@@ -1,0 +1,1 @@
+cheat gfi StoneFloor 8 100 0 | cheat gfi TekGenerator 1 100 0 | cheat gfi TurretTek 2 100 0 | cheat gfi PrimalItemResource_Element 10 100 0 | cheat gfi PrimalItemResource_Element 10 100 0 | cheat gfi PrimalItemResource_Element 10 100 0 | cheat gfi ElementShard 1000 100 0 | cheat gfi ElementShard 1000 100 0 | cheat gfi ElementShard 1000 100 0 | cheat gfi ElementShard 1000 100 0

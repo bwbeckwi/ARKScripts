@@ -1,0 +1,32 @@
+Alpha Rex Trophy
+GFI Alpharex 1 1 0
+
+Alpha wyvern Trophy
+GFI Alphawyvern 1 1 0
+
+Alpha death worm
+GFI Alphaworm 1 1 0
+
+Manticore Trophy
+GFI Trophy_Manticore 1 1 0
+GFI Trophy_Manticore_Gamma 1 1 0
+GFI Trophy_Manticore_beta 1 1 0
+GFI Trophy_Manticore_alpha 1 1 0
+
+Broodmother Trophies
+GFI Trophy_broodmother 1 1 0
+GFI Trophy_broodmother_gamma 1 1 0
+GFI Trophy_broodmother_beta 1 1 0
+GFI Trophy_broodmother_alpha 1 1 0
+
+Megapithicus Trophy
+GFI Trophy_gorilla 1 1 0
+GFI Trophy_gorilla_gamma 1 1 0
+GFI Trophy_gorilla_beta 1 1 0
+GFI Trophy_Gorilla_alpha 1 1 0
+
+Dragon Trophy
+GFI Trophy_dragon 1 1 0
+GFI Trophy_dragon_gamma 1 1 0
+GFI Trophy_dragon_beta 1 1 0
+GFI Trophy_dragon_alpha 1 1 0

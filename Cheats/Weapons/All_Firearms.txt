@@ -1,0 +1,1 @@
+GFI WeaponRifle 1 100 0 | GFI Pistol 1 100 0 | GFI MachinedSniper 1 100 0 | GFI Harpoon 1 100 0 | GFI OneShotRifle 1 100 0 | GFI MachinedShot 1 100 0 | GFI Shotgun 1 100 0 | GFI WeaponGun 1 100 0 | GFI TekSniper 1 100 0 | GFI TekRifle 1 100 0 | GFI rocketlauncher 1 100 0 | GFI FlameThrow 1 100 0

@@ -1,0 +1,1 @@
+Cheat GFI Consumable_RawMeat 20 100 0 | cheat gfi Consumable_RawMeat_Fish 20 100 0

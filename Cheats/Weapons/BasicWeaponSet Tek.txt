@@ -1,0 +1,1 @@
+cheat GiveArmorSet tek 5 | cheat gfi element 10 100 0 | cheat gfi element 10 100 0 | cheat gfi element 10 100 0 | cheat gfi element 10 100 0 | cheat gfi element 10 100 0 | cheat gfi WeaponPike 1 100 0 | cheat gfi WeaponSword 1 100 0 | cheat gfi WeaponMetalHatchet 1 100 0 | cheat gfi WeaponMetalPick 1 100 0

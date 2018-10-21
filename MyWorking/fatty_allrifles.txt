@@ -1,0 +1,74 @@
+Longneck rifle
+GFI oneshotrifle 1 100 0
+or
+giveitemnum 132 1 0 0
+
+Assault Rifle
+GFI Weaponrifle 1 100 0
+or
+giveitemnum 2 1 100 0
+
+Sniper rifle
+GFI WeaponMachinedSniper 1 100 0
+or
+giveitemnum 436 1 100 0
+
+Tek Rifle
+GFI tekrifle 1 100 0
+or
+giveitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_TekRifle.PrimalItem_TekRifle'" 1 0 0
+
+Element
+GFI element 1 0 0
+or
+giveitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element_C'" 1 0 0
+
+Simple Rifle ammo
+GFI SimpleRifleBullet 1 1 0
+or
+giveitemnum 144 1 0 0
+
+Trang dart
+GFI tranq 1 1 0
+or
+giveitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_TranqDart.PrimalItemAmmo_TranqDart'" 1 0 0
+
+Shocking Tranquilizer Dart
+GFI refinedtranqdart 1 1 0
+or
+giveitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart'" 1 0 0
+
+Advanced rifle bullet
+GFI advancedriflebullet 1 1 0
+or
+giveitemnum 246 1 0 0
+
+Advanced sniper bullet
+GFI advancedsniperbullet 1 1 0
+or
+giveitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedSniperBullet.PrimalItemAmmo_AdvancedSniperBullet'" 1 0 0
+
+Flashlight
+GFI flashlight 1 1 0
+or
+giveitemnum 205 1 0 0
+
+Holoscope
+GFI holoscope 1 1 0
+or
+giveitemnum 219 1 0 0
+
+laser 
+GFI laser 1 1 0
+or
+giveitemnum 220 1 0 0
+
+scope
+GFI scope 1 1 0
+or
+giveitemnum 138 1 0 0
+
+Silencer 
+GFI silencer 1 1 0
+or
+giveitemnum 206 1 0 0

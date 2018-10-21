@@ -1,0 +1,1 @@
+cheat gfi WeaponMachinedSniper 1 100 0 | cheat gfi AdvancedSniperBullet 200 100 0 | cheat gfi WeaponOneShotRifle 1 100 0 | cheat gfi FlameThrow 2 100 0 | cheat gfi Ammo_FlameThrower 120 100 0

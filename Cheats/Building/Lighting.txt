@@ -1,0 +1,1 @@
+cheat GFI PowerGenerator 5 100 0 | cheat GFI Gasoline 100 100 0 | cheat GFI LampPostOmni 100 100 0 | cheat GFI PowerCableIntersection 100 100 0 | cheat GFI PowerCableStraight 100 100 0 | cheat GFI PowerCableVertical 100 100 0 | cheat GFI PowerGenerator 100 100 0 | cheat GFI PowerOutlet 100 100 0 | cheat GFI PowerCableIncline 100 100 0

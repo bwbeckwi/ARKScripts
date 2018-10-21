@@ -1,0 +1,1 @@
+GFI C4 100 100 0 | GFI WeaponC4 1 100 0 | GFI WeaponGrenade 100 100 0 | GFI SeaMine 100 100 0 | GFI TripWire 100 100 0 | GFI TekGrenade 100 100 0 | GFI ClusterGrenade 100 100 0 | GFI PoisonGrenade 100 100 0

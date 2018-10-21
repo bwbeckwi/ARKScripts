@@ -1,0 +1,1 @@
+cheat GFI Turret 10 100 0 | cheat GFI TurretBall 10 100 0 | cheat GFI TurretCat 10 100 0 | cheat GFI HeavyTurret 10 100 0 | cheat GFI TurretMini 10 100 0 | cheat GFI Plant 10 100 0 | cheat GFI PlantSpeciesY 10 100 0 | cheat GFI PlantSpeciesZ 10 100 0 | cheat GFI Structure_Cannon 10 100 0 | cheat GFI TurretRocket 10 100 0 | cheat GFI TurretTek 10 100 0

@@ -1,0 +1,41 @@
+Hunter
+GFI artifact_01 1 1 0
+
+Pack
+GFI artifact_02 1 1 0
+
+Massive
+GFI artifact_03 1 1 0
+
+Devious
+GFI artifact_04 1 1 0
+
+Clever
+GFI artifact_05 1 1 0
+
+SKYLORD
+GFI artifact_06 1 1 0
+
+Devourer
+GFI artifact_07 1 1 0
+
+Immune
+GFI artifact_08 1 1 0
+
+Strong
+GFI artifact_09 1 1 0
+
+Cunning
+GFI artifact_11 1 1 0
+
+Brute
+GFI artifact_12 1 1 0
+
+Crag
+GFI artifactse_02 1 1 0
+
+Destroyer
+GFI artifactse_03 1 1 0
+
+Gatekeeper
+GFI artifactse_01 1 1 0

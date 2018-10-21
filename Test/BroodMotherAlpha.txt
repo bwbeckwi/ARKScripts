@@ -1,0 +1,1 @@
+cheat giveitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Broodmother_Alpha.PrimalItemTrophy_Broodmother_Alpha'" 1 0 0

@@ -1,0 +1,1 @@
+cheat gfi ammo_GrapplingHook 80 100 0 | cheat gfi WeaponCrossBow 1 100 0 | cheat gfi WeaponCompoundBow 1 100 0 | cheat gfi Ammo_CompoundBowArrow 50 100 0 | cheat gfi Ammo_TranqDart 75 100 0

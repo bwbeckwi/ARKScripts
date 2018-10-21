@@ -1,0 +1,1 @@
+cheat gfi PrimalItemConsumable_HealSoup 20 100 0|cheat gfi PrimalItemConsumable_StaminaSoup 20 100 0|cheat gfi Soup_BattleTartare 20 100 0|cheat gfi Soup_EnduroStew 20 100 0|cheat gfi Soup_ShadowSteak 20 100 0

@@ -1,0 +1,1 @@
+cheat GFI StoneFloor 100 100 0 | cheat GFI StoneGateLarge 10 100 0 | cheat GFI StoneGateFrame_Large 10 100 0 | cheat GFI StoneCeiling 100 100 0 | cheat GFI StonePillar 100 100 0
