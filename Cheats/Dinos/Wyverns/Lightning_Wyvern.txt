@@ -1,1 +1,1 @@
-AdminCheat GMSummon "Wyvern_Character_BP_Lightning_C" 1000 | Cheat GMBuff
+AdminCheat GMSummon "Wyvern_Character_BP_Lightning_C" 1000

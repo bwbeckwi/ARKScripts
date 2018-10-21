@@ -1,1 +1,1 @@
-AdminCheat GMSummon "Ragnarok_Wyvern_OverRide_Ice_C" 1000 | Cheat GMBuff
+AdminCheat GMSummon "Ragnarok_Wyvern_OverRide_Ice_C" 1000
