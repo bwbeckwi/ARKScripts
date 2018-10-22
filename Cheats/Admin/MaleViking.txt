@@ -1,1 +1,1 @@
-SetFacialHairPercent 1 | SetFacialHairStyle 7 | SetHeadHairPercent 1 | SetHeadHairStyle 7
+Cheat SetFacialHairPercent 1 | Cheat SetFacialHairStyle 7 | Cheat SetHeadHairPercent 1 | Cheat SetHeadHairStyle 7

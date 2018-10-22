@@ -1,0 +1,1 @@
+Cheat GFI Consumable_HealSoup 50 100 0 | Cheat GFI Consumable_StaminaSoup 50 100 0 | Cheat GFI Soup_BattleTarTare 50 100 0 | Cheat GFI Soup_EnduroStew 50 100 0 | Cheat GFI Soup_ShadowSteak 50 100 0

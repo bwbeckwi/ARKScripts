@@ -1,1 +1,1 @@
-GiveCreativeModeToPlayer <PlayerID>
+Cheat GiveCreativeModeToPlayer <PlayerID>
