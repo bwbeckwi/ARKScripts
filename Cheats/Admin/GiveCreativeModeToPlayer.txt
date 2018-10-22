@@ -1,0 +1,1 @@
+GiveCreativeModeToPlayer <PlayerID>

@@ -1,0 +1,1 @@
+SetFacialHairPercent 1 | SetFacialHairStyle 7 | SetHeadHairPercent 1 | SetHeadHairStyle 7
