@@ -1,0 +1,1 @@
+robocopy "C:\Users\bwbeckwi\Documents\Scripts\GitHub\ARKScripts" "C:\Users\bwbeckwi\Google Drive\_ARK\ARKSCripts" /R:1 /W:1 /MIR /Z
